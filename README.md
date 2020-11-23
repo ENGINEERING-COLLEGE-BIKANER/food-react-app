@@ -54,5 +54,5 @@ The MIT License (MIT)
 <br/>
 
 <p align="center">
-<sub>Thank you, Sai Prasanna Krishna</sub>
+<sub>Thank you Kumsr saurabh</sub>
 </p>
